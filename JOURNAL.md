@@ -11,9 +11,12 @@ This keyboard inspired me to also use a split spacebar layout.
 Here is the final design I landed on, created in MS paint.
 <img width="1500" height="1500" alt="KEEB-Sketch" src="https://github.com/user-attachments/assets/b0bf9cc8-8dd1-41d3-98e6-c3b02ac93fc1" />
 
-9:00PM - 7:00PM
-
-Started making schematic
+9:45PM - 10:30PM
+time spent: ~45m
+Started making schematic!
 
 <img width="357" height="210" alt="image" src="https://github.com/user-attachments/assets/4afa004a-18f1-445f-880f-ff353c2d5cbe" />
 
+This is the progress I've done so far.
+
+<img width="484" height="284" alt="image" src="https://github.com/user-attachments/assets/ca677811-44aa-455a-a27a-9e4e8f94f647" />
