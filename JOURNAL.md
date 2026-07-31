@@ -1,5 +1,5 @@
 ## 7/30/2026 Sketches/Planning
-time spent: 2h 30h
+time spent: ~2h
 
 First journal entry! I started by looking at different examples of keyboard layouts, and here are some I was inspired by:
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/161dd9ab-85dd-40d6-a269-0d1f1049e2a7" />
