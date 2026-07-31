@@ -14,5 +14,6 @@ Here is the final design I landed on, created in MS paint.
 9:00PM - 7:00PM
 
 Started making schematic
+
 <img width="357" height="210" alt="image" src="https://github.com/user-attachments/assets/4afa004a-18f1-445f-880f-ff353c2d5cbe" />
 
