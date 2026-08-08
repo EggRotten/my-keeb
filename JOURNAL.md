@@ -21,7 +21,7 @@ This is the progress I've done so far.
 
 <img width="484" height="284" alt="image" src="https://github.com/user-attachments/assets/ca677811-44aa-455a-a27a-9e4e8f94f647" />
 
-## 8/7/2026 Schematic
+## 8/7/2026 Finished Schematic
 10:30PM - 12:30AM
 time spent ~2h
 
@@ -29,5 +29,6 @@ Finished the schematic matrix, took a while and was pretty confusing but got it 
 Added the screen and rotary encoder, as well as the stabalizers.
 Annotated, now onto assigning footprints!
 <img width="1329" height="497" alt="image" src="https://github.com/user-attachments/assets/bb175643-0fae-474d-b581-6253043c36c1" />
+just finished assigning the stuff, hooray!! starting pcb tommorow
 
 
