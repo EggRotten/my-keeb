@@ -1,4 +1,4 @@
-## 7/30/2026 Sketches/Planning
+## 7/30/2026 Sketches/Planning + Starting Schematic
 5:00PM - 7:00PM
 time spent: ~2h
 
@@ -20,3 +20,6 @@ Started making schematic!
 This is the progress I've done so far.
 
 <img width="484" height="284" alt="image" src="https://github.com/user-attachments/assets/ca677811-44aa-455a-a27a-9e4e8f94f647" />
+
+## 8/7/2026 Schematic
+
