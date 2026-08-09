@@ -10,6 +10,9 @@ I was really fascinated by the side facing knob, as I hadn't seen them on any ke
 This keyboard inspired me to also use a split spacebar layout.
 Here is the final design I landed on, created in MS paint.
 <img width="750" height="700" alt="KEEB-Sketch" src="https://github.com/user-attachments/assets/b0bf9cc8-8dd1-41d3-98e6-c3b02ac93fc1" />
+Which I later edited on 8/9/2026 to this:
+<img width="1500" height="1500" alt="KEEB-Sketch" src="https://github.com/user-attachments/assets/c61f5d10-60c6-4f17-b9e1-015df76ed92c" />
+
 
 9:45PM - 10:30PM
 time spent: ~45m
@@ -20,6 +23,8 @@ Started making schematic!
 This is the progress I've done so far.
 
 <img width="484" height="284" alt="image" src="https://github.com/user-attachments/assets/ca677811-44aa-455a-a27a-9e4e8f94f647" />
+
+
 
 ## 8/7/2026 Finished Schematic
 10:30PM - 12:30AM
