@@ -32,3 +32,5 @@ Annotated, now onto assigning footprints!
 just finished assigning the stuff, hooray!! starting pcb tommorow
 
 
+## 8/8/2026 Starting PCB
+10:00  - ??
