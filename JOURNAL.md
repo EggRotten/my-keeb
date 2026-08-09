@@ -9,7 +9,7 @@ I was really fascinated by the side facing knob, as I hadn't seen them on any ke
 <img width="3114" height="2336" alt="image" src="https://github.com/user-attachments/assets/3ad7f7bb-1f97-4dd4-a5df-7b966a1a569c" />
 This keyboard inspired me to also use a split spacebar layout.
 Here is the final design I landed on, created in MS paint.
-<img width="750" height="450" alt="KEEB-Sketch" src="https://github.com/user-attachments/assets/b0bf9cc8-8dd1-41d3-98e6-c3b02ac93fc1" />
+<img width="750" height="700" alt="KEEB-Sketch" src="https://github.com/user-attachments/assets/b0bf9cc8-8dd1-41d3-98e6-c3b02ac93fc1" />
 
 9:45PM - 10:30PM
 time spent: ~45m
