@@ -40,4 +40,6 @@ just finished assigning the stuff, hooray!! starting pcb tommorow
 
 
 ## 8/8/2026 Starting PCB
-10:00  - ??
+10:00PM  - 12:00PM
+time spent ~2h
+Started PCB, had some issues with the footprints, and the keys werent showing up. Got it to finally work, and got about half the keyboard done. (Writing this in the future cus i forgot to commit and went to sleep)
